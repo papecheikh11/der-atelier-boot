@@ -1,0 +1,35 @@
+ img{
+    width: 100px;
+    height: 40px;
+}
+.trois i{
+    width: 50px;
+    font-size: 20px;
+}
+.deux .fa-microphone{
+    margin-left: 10px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.yt-icon{
+    width: 30px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.rac a{
+    background-color: rgb(126, 131, 131);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    scroll-margin-inline: normal;
+}
+
+@media screen and (max-width:782px) {
+    .mes-docs{
+        display: none;
+    }
+}
